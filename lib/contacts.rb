@@ -20,5 +20,5 @@ def remove_strawberry(contacts)
      contacts_data.each do |attribute, data|
        binding.pry
      end
-     end
+   end
 end
